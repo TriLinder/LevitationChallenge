@@ -1,4 +1,4 @@
-tellraw @a ["",{"text":"Levitation Challange ","bold":true,"color":"green"},{"text":"by TriLinder has been loaded.","color":"aqua"}]
+tellraw @a ["",{"text":"Levitation Challenge ","bold":true,"color":"green"},{"text":"by TriLinder has been loaded.","color":"aqua"}]
 
 function lev:one_second
 
